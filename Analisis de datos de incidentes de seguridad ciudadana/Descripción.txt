@@ -1,0 +1,1 @@
+El proyecto trata sobre analizar los incidentes de seguridad en la ciudad de Chiclayo de los meses febrero, marzo, abril y junio.
